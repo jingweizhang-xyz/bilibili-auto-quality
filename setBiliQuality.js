@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Bilibili Auto Quality (Ordered)
-// @namespace    https://github.com/your-username/bilibili-auto-quality
+// @namespace    https://github.com/jingweizhang-xyz/bilibili-auto-quality
 // @version      1.0
 // @description  根据配置的清晰度顺序，自动选择并设置B站播放器清晰度
 // @author       You
